@@ -43,4 +43,4 @@ const generateMessage = (obj) => {
   }`;
 };
 
-console.log(generateMessage(messages));
+// console.log(generateMessage(messages));
